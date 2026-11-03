@@ -1,0 +1,3 @@
+# The repo stores LF. Without this, a Windows checkout commits CRLF back and
+# every file looks rewritten to the next person on another OS.
+* text=auto eol=lf
